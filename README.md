@@ -11,8 +11,8 @@ This repository documents the engineering process of training a brittle, one-leg
 
 ---
 
-<img width="468" height="405" alt="Screenshot 3" src="https://github.com/user-attachments/assets/37fc39ce-1ccc-49a8-b4ea-7aaae5fce68c" />
-<img width="468" height="405" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c774721e-7edb-4199-b783-2bc4ca83a257" />
+<img width="368" height="305" alt="Screenshot 3" src="https://github.com/user-attachments/assets/37fc39ce-1ccc-49a8-b4ea-7aaae5fce68c" />
+<img width="368" height="305" alt="Screenshot 1" src="https://github.com/user-attachments/assets/c774721e-7edb-4199-b783-2bc4ca83a257" />
 
 
 ## 🛤️ The Journey (Project Phases)
